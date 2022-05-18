@@ -1,0 +1,9 @@
+Марсель|27|true
+Максим|20|false
+Виктор|25|falseИгорь|33|true
+Игорь|33|true
+Игорь|33|true
+Игорь|33|true
+Игорь|33|true
+Игорь|33|true
+ebksafafwf|123|true

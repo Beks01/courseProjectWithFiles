@@ -1,0 +1,6 @@
+Director|alish|123|Abazbekov Sanji|RockClimbing|32
+Director|mirba|123|Dastan Suvetalievea|RockClimbing|35
+Director|nur|124|Melisiv Kamchybek|HistoryOfMountains|34
+Director|di|124|Diana Sanjarbekova|HistoryOfMountains|29
+Director|zhash|125|dfeadsf|FirstAid|42
+Director|zhash|125|dfffdc dfd|FirstAid|41

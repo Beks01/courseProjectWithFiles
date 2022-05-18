@@ -1,0 +1,6 @@
+Teacher|dani|123|Abazbekov Daniel|RockClimbing|32
+Teacher|mirba|123|Mirbek Atabekov|RockClimbing|35
+Teacher|nur|124|Nursultan Nazarbaev|HistoryOfMountains|34
+Teacher|di|124|Diana Mamatkulova|HistoryOfMountains|29
+Teacher|zhash|125|Toktogul Satulganov|FirstAid|42
+Teacher|zhash|125|Zhandos Usenov|FirstAid|41Director|alish|321|Alisher Sbaziev|20

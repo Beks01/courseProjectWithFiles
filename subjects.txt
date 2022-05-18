@@ -1,0 +1,7 @@
+RockClimbing|Ai Demir|5
+PowerLifting|Zhakshylyk|5
+HistoryOfMountains|Aisalkyn|5
+RockClimbing|Demir|5
+FirstAid|Lera|5
+HistoryO|Aicholpon|5
+RockClimbing|Ayganysch|5

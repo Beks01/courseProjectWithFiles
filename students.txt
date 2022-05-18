@@ -1,0 +1,6 @@
+Student|beks|123|Avazov Beksultan|20
+Student|dasi|321|Dastan Sazanov|19
+Student|bema|351|Bermet Sultanova|21
+Student|isken|352|Iskender Maksutov|18
+Student|adel|353|Adelya Nurlanova|21
+Student|kami|351|Kamila Erkebekova|21
